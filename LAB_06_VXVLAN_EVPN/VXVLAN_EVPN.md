@@ -440,22 +440,7 @@ interface Ethernet0/0.10
 
 
 
-Смотрим анонсы в EVPN на Leaf 4
 
-
-
-![скрин 4](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_06_VXVLAN_EVPN/screenshots/Screenshot_4.jpg)
-
-
-
-
-смотрим анонсы в EVPN  на Leaf 5
-
-
-
-
-
-![скирн 5](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_06_VXVLAN_EVPN/screenshots/Screenshot_5.jpg)
 
 
 
