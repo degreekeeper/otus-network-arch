@@ -2,12 +2,14 @@
 
 
 
-Топология
+
+
+### Топология
 
 
 
 
-тут скрин 1
+![тут скрин 1](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_07_VXLAN_VPC/screenshots/Screenshot_1.jpg)
 
 
 
@@ -86,7 +88,7 @@ interface Ethernet0/1
 
 
 
-### 
+
 
 
 
@@ -143,7 +145,7 @@ interface port-channel99
 
 #### Настройка агрегированных портов, порта под peer-keepalive.
 
-#### 
+
 
 
 
@@ -260,11 +262,11 @@ interface Vlan10
 #### Смотрим состояние VPC и Port-channel
 
 
-тут скрин_2
+![тут скрин_2](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_07_VXLAN_VPC/screenshots/Screenshot_2.jpg)
 
-скрин3
+![скрин3](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_07_VXLAN_VPC/screenshots/Screenshot_3.jpg)
 
-скрин 4
+![скрин 4](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_07_VXLAN_VPC/screenshots/Screenshot_4.jpg)
 
 
 
@@ -376,14 +378,14 @@ interface loopback1
 
 
 
-скрин_5
+![скрин_5](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_07_VXLAN_VPC/screenshots/Screenshot_5.jpg)
 
 
-скрин_6
+![скрин_6](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_07_VXLAN_VPC/screenshots/Screenshot_6.jpg)
 
 
 
-скрин_7
+![скрин_7](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_07_VXLAN_VPC/screenshots/Screenshot_7.jpg)
 
 
 
@@ -393,10 +395,10 @@ interface loopback1
 
 
 
-скрин_9
+![скрин_9](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_07_VXLAN_VPC/screenshots/Screenshot_9.jpg)
 
 
-скрин_8
+![скрин_8](https://github.com/degreekeeper/otus-network-arch/blob/main/LAB_07_VXLAN_VPC/screenshots/Screenshot_8.jpg)
 
 
 
