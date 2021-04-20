@@ -1,0 +1,4 @@
+https://www.arista.com/en/um-eos/eos-configuring-evpn
+
+
+https://overlaid.net/2019/01/27/arista-bgp-evpn-configuration-example/
